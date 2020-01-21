@@ -1,1 +1,39 @@
+body{
+    font-family:'Open-sans', sans-serif;
+    font-size:17px;
+    line-height:1.5em;
+    margin:0;
+    padding:0;
+  }
+  .container{
+    margin:auto;
+  }
+  /* COMMON CLASSES */
+.primary-text{
+    color:#56a79a;
+  }
 
+  /* HEADER */
+#main-header{
+    border-bottom:1px solid #56a79a;
+  }
+  
+  /* NAVBAR */
+#navbar{
+    text-transform:uppercase;
+  }
+
+
+
+
+
+
+
+
+
+
+  /* FOOTER */
+#main-footer{
+    background:#56a79a;
+    color:#fff;
+  }
