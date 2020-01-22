@@ -2,13 +2,19 @@
 part of weekly basis projects given by [HYF.be](https://hackyourfuture.be/) this is the
 2nd week project is to study [this](https://www.youtube.com/watch?v=qlA7dputiNc) app-theme tutorial from Traversy Media.
 
+<br>
+
 # Goal
 after stuyding the project student should recreat it in a githup repo showing his 
  **[development-strategy](https://github.com/AmeerAbed/app-theme/blob/master/development-strategy.md)** and all the needed branches that reflects the neccessary steps.
  
+<br>
+ 
 # liveDemo
 check the **[Live-Demo](https://ameerabed.github.io/app-theme/)**.
 ![](https://github.com/AmeerAbed/app-theme/blob/master/Screenshot%20from%202020-01-22%2020-07-09.png)
+
+<br>
 
 # steps
 - [x] created empty Repo named `app-theme` .
@@ -35,6 +41,11 @@ check the **[Live-Demo](https://ameerabed.github.io/app-theme/)**.
 - [x] finished with `services.html` file in the `services-branch` and added needed `style.css` code .
 - [x] created the basic `contact.html` file in the `contact-page-branch`.
 - [x] finished with `contact.html`  file in the `contact-page-branch` and added needed `style.css` code.
-- [ ] finished with `development-strategy.md` .
-- [ ] finished with `README.md` .
-- [ ] reviewed the live demo, project code and branches one last time to make sure I finished .
+- [x] finished with `development-strategy.md` .
+- [x] finished with `README.md` .
+- [x] reviewed the live demo, project code and branches one last time to make sure I finished .
+
+
+
+
+
