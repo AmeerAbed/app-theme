@@ -8,7 +8,7 @@ after stuyding the project student should recreat it in a githup repo showing hi
  
 # liveDemo
 check the **[Live-Demo](https://ameerabed.github.io/app-theme/)**.
-![main-Page]()
+![](https://github.com/AmeerAbed/app-theme/blob/master/Screenshot%20from%202020-01-22%2020-07-09.png)
 
 # steps
 - [x] created empty Repo named `app-theme` .
