@@ -23,9 +23,7 @@ body{
     text-transform:uppercase;
   }
 
-
-
-/* SHOWCASE */
+ /* SHOWCASE */
 #showcase{
     background:url('../images/showcase.jpg') no-repeat center center;
     border-bottom:1px solid #56a79a;
@@ -34,22 +32,31 @@ body{
 
 
 
-/* FEATURES */
-#features h2{
-  font-size:35px;
-  margin:0;
-  padding-bottom:10px;
-}
+/* INFO */
+#info{
+    background:#333 url('../images/info-bg.jpg') no-repeat;
+    color:#fff;
+  }
+  
+  #info h2{
+    font-size:35px;
+    margin:0;
+    padding-bottom:10px;
+  }
+  
+  #info ul{
+    list-style:none;
+    padding:0;
+  }
+  
+  #info li{
+    line-height:2em;
+    font-size:20px;
+  }
 
-#features p{
-  color:#888;
-  margin:0;
-  margin-bottom:40px;
-}
 
-#features .fa{
-  font-size:60px;
-  color:#56a79a
+
+
 
 
   /* FOOTER */
